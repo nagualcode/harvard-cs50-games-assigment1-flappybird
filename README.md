@@ -1,1 +1,4 @@
-# harvard-cs50-games-assigment2-flappybird
+# harvard
+# cs50 - Games
+
+## Assigment2: Flappy Bird
